@@ -420,7 +420,6 @@ header {
 
 .box .sm a {
     text-decoration: none;
-    color: #711DB0;
     display: inline-flex;
     justify-content: center;
     align-items: center;
@@ -435,7 +434,7 @@ header {
     transition-duration: 0.4s;
 }
 
-.box .sm a i:hover {
+.box .sm a:hover {
     background-color: transparent;
     color: #FFA732;
 }
