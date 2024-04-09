@@ -435,6 +435,10 @@ header {
     transition-duration: 0.4s;
 }
 
+.box .sm a i {
+    color: #711DB0;
+}
+
 .box .sm a:hover {
     background-color: transparent;
     color: #FFA732;
