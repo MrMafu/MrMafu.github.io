@@ -416,6 +416,8 @@ header {
     margin: 10px 0;
     display: flex;
     justify-content: center;
+    text-decoration: none;
+    color: #711DB0;
 }
 
 .box .sm a {
