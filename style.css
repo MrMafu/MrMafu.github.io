@@ -416,12 +416,11 @@ header {
     margin: 10px 0;
     display: flex;
     justify-content: center;
-    color: #711DB0;
 }
 
 .box .sm a {
     text-decoration: none;
-    color: inherit;
+    color: #711DB0;
     display: inline-flex;
     justify-content: center;
     align-items: center;
