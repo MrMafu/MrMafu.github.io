@@ -360,6 +360,10 @@ header {
     resize: none;
 }
 
+.message textarea {
+    height: 380px;
+}
+
 .field input:focus,
 .message textarea:focus {
     outline: none;
