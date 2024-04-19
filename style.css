@@ -357,6 +357,7 @@ header {
     border: 1px solid #ccc;
     border-radius: 5px;
     transition: 0.2s;
+    resize: none;
 }
 
 .field input:focus,
