@@ -137,6 +137,11 @@ header {
     top: 26%;
     left: 67%;
     box-shadow: 0 5px 18px rgba(0, 0, 0, 0.4);
+    transition-duration: 0.4s;
+}
+
+.hero:hover {
+    transform: scale(1.1);
 }
 
 .social {
@@ -208,6 +213,11 @@ header {
     border-radius: 15%;
     width: 25%;
     box-shadow: 0 5px 18px rgba(0, 0, 0, 0.4);
+    transition-duration: 0.4s;
+}
+
+.about-img:hover {
+    transform: scale(1.1);
 }
 
 .about-desc {
@@ -357,11 +367,10 @@ header {
     border: 1px solid #ccc;
     border-radius: 5px;
     transition: 0.2s;
-    resize: none;
 }
 
 .message textarea {
-    height: 380px;
+    resize: none;
 }
 
 .field input:focus,
