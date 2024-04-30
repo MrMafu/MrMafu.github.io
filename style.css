@@ -338,6 +338,11 @@ header {
     border-radius: 10px;
     width: 28%;
     box-shadow: 0 5px 18px rgba(0, 0, 0, 0.2);
+    transition-duration: 0.4s;
+}
+
+.projects-card:hover {
+    transform: scale(1.1);
 }
 
 .projects-card img {
